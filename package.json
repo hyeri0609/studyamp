@@ -40,7 +40,6 @@
     "serve-favicon": "^2.4.5"
   },
   "devDependencies": {
-    "amphtml-validator": "^1.0.21",
     "mocha": "^4.0.1",
     "request": "^2.83.0",
     "should": "^13.1.3",
